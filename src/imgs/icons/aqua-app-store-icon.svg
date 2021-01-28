@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="125" viewBox="0 0 125 125">
+    <defs>
+        <filter id="y9j8ni6vyb" width="136.9%" height="136.9%" x="-18.4%" y="-13.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.26 0"/>
+        </filter>
+        <filter id="n4btagnvye" width="355.3%" height="355.3%" x="-127.7%" y="-127.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="13" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="13"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.0509803922 0 0 0 0 0.0745098039 0 0 0 0 0.137254902 0 0 0 0.199847028 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="fv7eouuabh" width="246.6%" height="246.6%" x="-73.3%" y="-73.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="13" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="13"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.0509803922 0 0 0 0 0.0745098039 0 0 0 0 0.137254902 0 0 0 0.199847028 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <path id="h588sd5kza" d="M25.639 0H77.36c8.915 0 12.148.928 15.407 2.671 3.26 1.743 5.818 4.301 7.56 7.56 1.744 3.26 2.672 6.493 2.672 15.408V77.36c0 8.915-.928 12.148-2.671 15.407-1.743 3.26-4.301 5.818-7.56 7.56-3.26 1.744-6.493 2.672-15.408 2.672H25.64c-8.915 0-12.148-.928-15.407-2.671-3.26-1.743-5.818-4.301-7.56-7.56C.927 89.508 0 86.275 0 77.36V25.64c0-8.915.928-12.148 2.671-15.407 1.743-3.26 4.301-5.818 7.56-7.56C13.492.927 16.725 0 25.64 0z"/>
+        <path id="z4qvj4xcdd" d="M0 0H103V103H0z"/>
+        <radialGradient id="o630wifxtg" cx="50%" cy="-20.691%" r="120.691%" fx="50%" fy="-20.691%">
+            <stop offset="0%" stop-color="#13CDC2"/>
+            <stop offset="100%" stop-color="#004C66"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-191 -6025) translate(202 6031)">
+                <mask id="4ab69xanbc" fill="#fff">
+                    <use xlink:href="#h588sd5kza"/>
+                </mask>
+                <use fill="#000" fill-rule="nonzero" filter="url(#y9j8ni6vyb)" xlink:href="#h588sd5kza"/>
+                <g mask="url(#4ab69xanbc)">
+                    <g fill="#101525">
+                        <path d="M0 0H322V323H0z"/>
+                    </g>
+                    <mask id="ffb85hsvrf" fill="#fff">
+                        <use xlink:href="#z4qvj4xcdd"/>
+                    </mask>
+                    <use fill="#05939A" xlink:href="#z4qvj4xcdd"/>
+                    <g filter="url(#n4btagnvye)" mask="url(#ffb85hsvrf)">
+                        <path fill="url(#o630wifxtg)" d="M0 0H103V103H0z"/>
+                        <g fill-rule="nonzero" filter="url(#fv7eouuabh)">
+                            <g>
+                                <path fill="#FFF" d="M34.294 0L0 38.443l22.785 17.414h22.993l22.81-17.414L34.295 0zm.39 48.769h-.767c-7.244-.208-13.5-5.904-13.5-13.174 0-2.432 1.12-5.813 2.25-7.777 2.9-5.722 8.675-13.356 10.717-18.91l.585-1.638c.104-.3.533-.3.637 0l.573 1.6c.013.025.013.051.026.077v.013c2.054 5.54 7.803 13.149 10.703 18.845 1.131 1.964 2.25 5.345 2.25 7.777.013 7.283-6.243 12.979-13.474 13.187" transform="translate(17.167 20.028)"/>
+                                <path fill="#13CDC2" d="M34.684 48.769h-.767c-6.255-.182-11.782-4.46-13.16-10.326H0l22.785 17.414h22.993l22.81-17.414H47.847c-1.379 5.865-6.906 10.144-13.162 10.326z" transform="translate(17.167 20.028)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="125" viewBox="0 0 125 125">
+    <defs>
+        <path id="lt4zc6hvga" d="M25.639 0H77.36c8.915 0 12.148.928 15.407 2.671 3.26 1.743 5.818 4.301 7.56 7.56 1.744 3.26 2.672 6.493 2.672 15.408V77.36c0 8.915-.928 12.148-2.671 15.407-1.743 3.26-4.301 5.818-7.56 7.56-3.26 1.744-6.493 2.672-15.408 2.672H25.64c-8.915 0-12.148-.928-15.407-2.671-3.26-1.743-5.818-4.301-7.56-7.56C.927 89.508 0 86.275 0 77.36V25.64c0-8.915.928-12.148 2.671-15.407 1.743-3.26 4.301-5.818 7.56-7.56C13.492.927 16.725 0 25.64 0z"/>
+        <path id="rysasjcz4d" d="M0 0H103V103H0z"/>
+        <filter id="x0384r8f2b" width="132%" height="132%" x="-16%" y="-16%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.705882353 0 0 0 0 0.352941176 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-191 -5497) translate(202 5508)">
+                <mask id="kycgfe9bpc" fill="#fff">
+                    <use xlink:href="#lt4zc6hvga"/>
+                </mask>
+                <use fill="#000" fill-rule="nonzero" filter="url(#x0384r8f2b)" xlink:href="#lt4zc6hvga"/>
+                <g mask="url(#kycgfe9bpc)">
+                    <g>
+                        <mask id="xeugzejute" fill="#fff">
+                            <use xlink:href="#rysasjcz4d"/>
+                        </mask>
+                        <use fill="#0F1216" xlink:href="#rysasjcz4d"/>
+                        <g fill-rule="nonzero" mask="url(#xeugzejute)">
+                            <g>
+                                <path fill="#00B45A" d="M6.249 36.207V6.222h34.764V0H.027v30.05c0 6.029 4.265 10.936 9.781 15.426-2.18-2.823-3.56-5.837-3.56-9.269z" transform="translate(24.739 20.314)"/>
+                                <path fill="#FFF" d="M32.963 12.315H12.31v30.05c0 9.653 10.904 16.388 20.493 23.219 9.62-6.831 20.493-13.566 20.493-23.22V12.316H32.963zm14.207 30.05c0 5.388-7.12 10.615-14.335 15.714-7.216-5.099-14.336-10.326-14.336-15.714V18.44H47.17v23.925z" transform="translate(24.739 20.314)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

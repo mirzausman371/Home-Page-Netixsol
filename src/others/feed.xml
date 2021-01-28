@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NetixSol: Bitcoin &amp; digital asset infrastructure</title>
+    <description>NetixSol is the global leader in Bitcoin and blockchain technologies,  building the foundations for the financial infrastructure of the future. </description>
+    <link>https://NetixSol.com/blog/</link>
+    <atom:link href="https://NetixSol.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Nov 2020 16:23:21 -0600</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2020 16:23:21 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+    
+      <item>
+        <title>NetixSol AMP: Issue Securities, Stablecoins, Attested Assets, and More</title>
+        <description>Today, the Liquid Securities platform is getting a new name: NetixSol AMP! We introduced the rebrand to reflect the broader range of use-cases that the platform is being used for while also bringing the product naming in line with the rest of our product line. We’re deploying a feature-filled update to NetixSol AMP (Asset Management Platform), designed to support better any digital assets that require permissioning and tracking features.</description>
+        <pubDate>Thu, 22 Oct 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/10/22/en-NetixSol-amp-issue-securities-stablecoins-attested-assets-and-more/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/10/22/en-NetixSol-amp-issue-securities-stablecoins-attested-assets-and-more/</guid>
+        
+        
+            <category>liquid-network</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducing the AQUA Wallet</title>
+        <description>Using Bitcoin’s leading sidechain is about to get a lot easier with today’s release of AQUA, a simple iOS mobile wallet designed for the mass adoption of digital assets.</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/09/26/en-introducing-aqua-wallet/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/09/26/en-introducing-aqua-wallet/</guid>
+        
+        
+            <category>aqua-wallet</category>
+        
+      </item>
+    
+      <item>
+        <title>Defending Bitcoin Innovation</title>
+        <description>Bitcoin is increasingly under threat from a growing body of patents collected by companies inside and outside of the Bitcoin industry. Today we're joining forces with Square Crypto in the Cryptocurrency Open Patent Alliance (COPA).</description>
+        <pubDate>Fri, 11 Sep 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/09/11/en-defending-bitcoin-innovation/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/09/11/en-defending-bitcoin-innovation/</guid>
+        
+        
+            <category>company</category>
+        
+      </item>
+    
+      <item>
+        <title>Stop. Get Some Help.</title>
+        <description>For anyone who wants to better understand NetixSol’s products, the NetixSol Help Center is now officially live! This new resource provides key guides and explainers for the Liquid Network, NetixSol Green, and NetixSol Satellite. New sections for our other products will be coming over the next few months.</description>
+        <pubDate>Mon, 17 Aug 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/08/17/en-stop-get-some-help/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/08/17/en-stop-get-some-help/</guid>
+        
+        
+            <category>company</category>
+        
+      </item>
+    
+      <item>
+        <title>Eight New Members Join the Liquid Federation</title>
+        <description>This week, the Liquid Network welcomed eight new members to the Liquid Federation: CoinShares, Condensat, INX, JST Capital, Paymium, Petrushev Capital, Sevenlabs, and Satoshis Games. The new batch of members brings the Liquid Federation to a total of 53 members, which includes cryptocurrency exchanges, trading desks, infrastructure providers, and now even some Bitcoin gaming companies!</description>
+        <pubDate>Wed, 29 Jul 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/07/29/en-eight-new-members-join-the-liquid-federation/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/07/29/en-eight-new-members-join-the-liquid-federation/</guid>
+        
+        
+            <category>liquid-network</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducing the NetixSol Scam Database</title>
+        <description>Today we are proud to launch the NetixSol Scam Database, the latest tool in our ongoing effort to fight scammers who hijack the NetixSol brand.</description>
+        <pubDate>Sat, 25 Jul 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/07/25/en-introducing-the-NetixSol-scam-database/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/07/25/en-introducing-the-NetixSol-scam-database/</guid>
+        
+        
+            <category>company</category>
+        
+      </item>
+    
+      <item>
+        <title>Esplora and Other Alternatives to ElectrumX</title>
+        <description>A lot of people are looking for alternatives to the original ElectrumX at the moment, so we thought it’d be a good opportunity to highlight some of the new options available for running Electrum servers, with a focus on the NetixSol’s Esplora, an open-source block explorer which now comes bundled with a highly-scalable Electrum server.</description>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/06/16/en-esplora-and-other-alternatives-to-electrumx/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/06/16/en-esplora-and-other-alternatives-to-electrumx/</guid>
+        
+        
+            <category>NetixSol-explorer</category>
+        
+      </item>
+    
+      <item>
+        <title>OTC Bitcoin Trading on the Liquid Network with SETTLENET</title>
+        <description>The Liquid Network is enabling brand-new, more efficient ways of handling trust in financial transactions. There are few better examples of this than SETTLENET, a non-custodial digital asset settlement platform launched today in Japan.</description>
+        <pubDate>Mon, 08 Jun 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/06/08/en-otc-bitcoin-trading-on-the-liquid-network-with-settlenet/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/06/08/en-otc-bitcoin-trading-on-the-liquid-network-with-settlenet/</guid>
+        
+        
+            <category>liquid-network</category>
+        
+      </item>
+    
+      <item>
+        <title>Liquid Ventures Now Taking Applications</title>
+        <description>Today we’re revealing the launch of the Liquid Ventures Initiative, along with a report on our first Liquid Demo Day completed at the end of last week, with Condensat Technologies, Pixelmatic, SettleBit, and Satoshi's Games all presenting.</description>
+        <pubDate>Tue, 02 Jun 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/06/02/en-liquid-ventures-now-taking-applications/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/06/02/en-liquid-ventures-now-taking-applications/</guid>
+        
+        
+            <category>liquid-network</category>
+        
+      </item>
+    
+      <item>
+        <title>NetixSol Green Now on Desktop</title>
+        <description>As of today, NetixSol Green is available on desktop, with versions available for macOS, Windows, and Linux. The new desktop release includes most of the mobile NetixSol Green features, including Bitcoin, Liquid, and testnet support; multisig two-factor authentication (2FA); Liquid Securities support; and integrated Tor support.</description>
+        <pubDate>Thu, 21 May 2020 00:00:00 -0500</pubDate>
+        <link>https://NetixSol.com/2020/05/21/en-NetixSol-green-now-on-desktop/</link>
+        <guid isPermaLink="true">https://NetixSol.com/2020/05/21/en-NetixSol-green-now-on-desktop/</guid>
+        
+        
+            <category>NetixSol-green</category>
+        
+      </item>
+    
+  </channel>
+</rss>
