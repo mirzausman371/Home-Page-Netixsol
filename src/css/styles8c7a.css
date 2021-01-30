@@ -19914,13 +19914,13 @@ video:focus {
 
 .about_history_bullets_left {
   position: absolute;
-  top: 85rem;
+  top: 45rem;
   left: 0;
 }
 
 .about_history_bullets_right {
   position: absolute;
-  top: 105rem;
+  top: 65rem;
   right: 0;
 }
 
@@ -20116,7 +20116,7 @@ video:focus {
 }
 
 #history_january-2019-right {
-  margin-top: -7rem;
+  margin-top: 32rem;
 }
 
 #history_july-2019-1 {
@@ -20289,7 +20289,7 @@ video:focus {
   }
 
   #history_june-2015 {
-    margin-top: 49rem;
+    margin-top: 48rem;
   }
 
   #history_january-2016 {
@@ -20361,11 +20361,11 @@ video:focus {
   }
 
   #history_october-2018 {
-    top: 0;
+    top: 33rem;
   }
 
   #history_january-2019-right {
-    margin-top: -6rem;
+    margin-top: 54rem;
   }
 
   #history_july-2019-1 {
