@@ -62,7 +62,7 @@ body {
   grid-template-columns: 1fr 2fr 10fr 1fr 1fr;
   max-width: 100%;
   margin: 0 auto;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 #LogoNetixSol {
