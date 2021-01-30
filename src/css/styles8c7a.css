@@ -339,7 +339,7 @@ h3 {
   .header_secondary_landing_intro_text {
     font-size: 2.8rem;
     margin-top: 2rem;
-    width: 35rem;
+    width: 63rem;
   }
 }
 
@@ -12181,7 +12181,7 @@ video:focus {
   position: relative;
   z-index: 10;
   width: 150%;
-  margin-top: 6rem;
+  /* margin-top: 6rem; */
   margin-bottom: 4rem;
   margin-left: -13rem;
 }
@@ -12189,7 +12189,7 @@ video:focus {
 @media (max-width: 1500px) {
   .elements_text {
     font-size: 2.2rem;
-    width: 42rem;
+    width: 60rem;
   }
 }
 
@@ -12538,7 +12538,7 @@ video:focus {
   position: relative;
   z-index: 10;
   width: 132%;
-  margin-top: 6rem;
+  /* margin-top: 6rem; */
   margin-bottom: 4rem;
 }
 
@@ -12551,7 +12551,7 @@ video:focus {
 @media (max-width: 1500px) {
   .satellite_text {
     font-size: 2.2rem;
-    width: 42rem;
+    width: 60rem;
   }
 }
 
@@ -12734,7 +12734,7 @@ video:focus {
   position: relative;
   z-index: 10;
   width: 160%;
-  margin-top: 6rem;
+  /* margin-top: 6rem; */
   margin-bottom: 4rem;
   margin-left: -22rem;
 }
@@ -12742,7 +12742,7 @@ video:focus {
 @media (max-width: 1500px) {
   .lightning_text {
     font-size: 2.2rem;
-    width: 42rem;
+    width: 60rem;
   }
 }
 
@@ -12917,14 +12917,14 @@ video:focus {
   position: relative;
   z-index: 10;
   width: 141%;
-  margin-top: 6rem;
+  /* margin-top: 6rem; */
   margin-bottom: 4rem;
 }
 
 @media (max-width: 1500px) {
   .ice_text {
     font-size: 2.2rem;
-    width: 42rem;
+    width: 60rem;
   }
 }
 
@@ -13080,14 +13080,14 @@ video:focus {
   position: relative;
   z-index: 10;
   width: 110%;
-  margin-top: 6rem;
+  /* margin-top: 6rem; */
   margin-bottom: 4rem;
 }
 
 @media (max-width: 1500px) {
   .landing_green_text {
     font-size: 2.2rem;
-    width: 42rem;
+    width: 60rem;
   }
 }
 
