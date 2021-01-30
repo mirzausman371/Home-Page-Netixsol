@@ -214,7 +214,7 @@ h3 {
 .header {
   grid-column: 1 / span 9;
   width: 100%;
-  min-height: 82rem;
+  min-height: 86rem;
   height: auto;
 }
 
@@ -228,7 +228,7 @@ h3 {
 }
 
 .header_about {
-  background-image: url("../../src/imgs/icons/bgblock.jpg");
+  background-image: url("/src/imgs/icons/bgblock.jpg");
   background-size: cover;
 }
 
@@ -338,7 +338,8 @@ h3 {
 @media (max-width: 1500px) {
   .header_secondary_landing_intro_text {
     font-size: 2.8rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
+    width: 35rem;
   }
 }
 
@@ -805,7 +806,7 @@ h3 {
 
 .header-new_intro_text {
   font-size: 18px;
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
 }
 
 .header-new_intro_button_holder {
@@ -839,7 +840,7 @@ h3 {
     flex: 100%;
     -webkit-box-ordinal-group: 3;
     order: 2;
-    margin-top: 0px;
+    margin-top: 10px;
     padding-top: 0px;
   }
 
@@ -849,7 +850,8 @@ h3 {
   }
 
   .header-new_intro_text {
-    margin-bottom: 40px;
+    margin-bottom: 25px;
+    width: 36rem;
   }
 }
 
@@ -864,8 +866,12 @@ h3 {
 
   .header-new_intro_button_holder .gradient-button {
     margin-bottom: 20px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
   }
+}
+
+.home_heading_text{
+  font-size: 18px
 }
 
 .header-new_intro_right {
@@ -1886,8 +1892,9 @@ h3 {
   }
 
   .header_primary_logo a img {
-    width: 150px;
+    width: 153px;
     margin-left: 3.5rem;
+    height: 7rem;
   }
 
   .header_primary_mobile-menu-button {
@@ -2238,7 +2245,7 @@ h3 {
   .header_primary_logo a img {
     width: 140px;
     margin-top: 15px;
-    margin-left: 27px;
+    margin-left: 20px;
   }
 
   .header_primary_mobile-menu-button {
@@ -2641,6 +2648,7 @@ h3 {
   padding-left: 2rem;
   border-radius: 0;
   outline: none;
+  
 }
 
 @media (max-width: 1500px) {
@@ -2695,7 +2703,7 @@ h3 {
 
 @media only screen and (max-width: 650px) {
   .newsletter_form_subscribe {
-    height: 40px;
+    height: 45px;
   }
 }
 
@@ -3388,7 +3396,7 @@ h3 {
   }
 
   .headline-row_image-size_medium {
-    width: 25rem;
+    width: 34rem;
   }
 
   .headline-row_image-size_large {
@@ -4544,6 +4552,40 @@ h3 {
     , rgb(79, 8, 145), rgb(72, 41, 172), rgb(75, 25, 212), rgb(75, 25, 212), rgb(72, 41, 172),   rgb(79, 8, 145));
 }
 
+#tokenization_button {
+
+  background-image: linear-gradient(
+    70deg
+    , rgb(106, 8, 145), rgb(91, 41, 172), rgb(106, 25, 212),  rgb(106, 25, 212), rgb(91, 41, 172),  rgb(106, 8, 145));
+    margin-bottom: 6rem;
+}
+
+#staking_button2{
+
+  background-image: linear-gradient(
+    70deg
+    , rgb(8, 145, 134), rgb(41, 168, 172), rgb(31, 223, 197),  rgb(31, 223, 197), rgb(41, 168, 172),  rgb(8, 145, 134));
+    margin-bottom: 6rem;
+}
+
+#vision1_pic{
+  width: 35rem;
+}
+#vision5_pic{
+  width: 37rem;
+}
+#careers_button{
+  margin-left: 66rem;
+  margin-top: 10rem;
+}
+
+@media only screen and (max-width: 500px){
+  #careers_button{
+    margin-left: 5rem;
+    margin-top: 10rem;
+  } 
+}
+
 
 .in-the-news_arrow-forward {
   color: #a9b1b6;
@@ -4643,7 +4685,7 @@ h3 {
   width: 0.9rem;
   height: 0.9rem;
   border-radius: 100%;
-  background-color: #00c3ff;
+  background-color: #de55d4;
 }
 
 .history-bullet-left_bullet_line {
@@ -4654,9 +4696,9 @@ h3 {
     right top,
     left top,
     from(#0d1526),
-    to(#00c3ff)
+    to(#de55d4)
   );
-  background-image: linear-gradient(to left, #0d1526 0%, #00c3ff 100%);
+  background-image: linear-gradient(to left, #0d1526 0%, #de55d4 100%);
 }
 
 .history-bullet-right {
@@ -4711,7 +4753,7 @@ h3 {
   width: 0.9rem;
   height: 0.9rem;
   border-radius: 100%;
-  background-color: #00c3ff;
+  background-color: #de55d4;
 }
 
 .history-bullet-right_bullet_line {
@@ -4722,9 +4764,9 @@ h3 {
     left top,
     right top,
     from(#0d1526),
-    to(#00c3ff)
+    to (#de55d4)
   );
-  background-image: linear-gradient(to right, #0d1526 0%, #00c3ff 100%);
+  background-image: linear-gradient(to right, #0d1526 0%, #de55d4 100%);
 }
 
 .history-bullet_omit-title {
@@ -8185,10 +8227,16 @@ button.gsc-search-button svg {
 .product-form-liquid {
   background-image: linear-gradient(
     -210deg,
-    #1c2a34 0%,
-    #077672 52%,
-    #00c8b7 100%
+    #141023 0%,
+     #2c1196 52%,
+      #6647e4 100%
   );
+}
+
+#staking_button{
+  background-image: linear-gradient(
+70deg
+, #2a03a8, #5828dd, #5828dd, #2a03a8);
 }
 
 .product-form-mining {
@@ -10601,6 +10649,7 @@ video:focus {
 @media only screen and (max-width: 650px) {
   .gradient-button {
     font-size: 14px;
+    min-width: 119px;
   }
 }
 
@@ -12021,6 +12070,7 @@ video:focus {
     font-size: 1.8rem;
     color: #a9b1b6;
     line-height: 1.8;
+    width: 40rem;
   }
 }
 
@@ -12139,6 +12189,7 @@ video:focus {
 @media (max-width: 1500px) {
   .elements_text {
     font-size: 2.2rem;
+    width: 42rem;
   }
 }
 
@@ -12373,6 +12424,8 @@ video:focus {
 
   .liquid_text {
     margin: 5rem 0;
+    width: 45rem;
+    margin-left: -1rem;
   }
 
   .liquid_button {
@@ -12490,7 +12543,7 @@ video:focus {
 }
 
 #home_button1{
-  margin-top:5rem;
+  margin-top:2rem;
 }
 
 
@@ -12498,6 +12551,7 @@ video:focus {
 @media (max-width: 1500px) {
   .satellite_text {
     font-size: 2.2rem;
+    width: 42rem;
   }
 }
 
@@ -12688,6 +12742,7 @@ video:focus {
 @media (max-width: 1500px) {
   .lightning_text {
     font-size: 2.2rem;
+    width: 42rem;
   }
 }
 
@@ -12869,6 +12924,7 @@ video:focus {
 @media (max-width: 1500px) {
   .ice_text {
     font-size: 2.2rem;
+    width: 42rem;
   }
 }
 
@@ -13031,6 +13087,7 @@ video:focus {
 @media (max-width: 1500px) {
   .landing_green_text {
     font-size: 2.2rem;
+    width: 42rem;
   }
 }
 
@@ -18065,7 +18122,7 @@ video:focus {
 }
 
 .liquid_form .product-form {
-  height: 60rem;
+  height: 53rem;
 }
 
 .liquid_form .product-form_container {
@@ -19794,10 +19851,10 @@ video:focus {
     linear,
     left top,
     left bottom,
-    from(#0d1526),
-    to(#00aed9)
+    from(#a02082),
+    to(#de55d4)
   );
-  background-image: linear-gradient(to bottom, #0d1526 0%, #00aed9 100%);
+  background-image: linear-gradient(to bottom, #2b1626 0%, #de55d4 100%);
   width: 2px;
   height: 400rem;
   position: absolute;
@@ -19824,8 +19881,8 @@ video:focus {
 
 .about_history_timeline_years_year {
   font-size: 2.4rem;
-  color: #00aed9;
-  border: 1px solid #00aed9;
+  color: #de55d4;
+  border: 1px solid #de55d4;
   border-radius: 23px;
   text-align: center;
   width: 10rem;
@@ -19851,7 +19908,7 @@ video:focus {
   text-transform: uppercase;
   width: 12.5rem;
   height: 12.5rem;
-  border: 2px solid #00aed9;
+  border: 2px solid #de55d4;
   border-radius: 12.5rem;
 }
 
