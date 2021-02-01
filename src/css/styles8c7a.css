@@ -19961,10 +19961,10 @@ video:focus {
     linear,
     left top,
     left bottom,
-    from(#0d1526),
-    to(#00aed9)
+    from(#2b1626),
+    to(#de55d4)
   );
-  background-image: linear-gradient(to bottom, #0d1526 0%, #00aed9 100%);
+  background-image: linear-gradient(to bottom, #2b1626 0%, #de55d4 100%);
   width: 2px;
   height: 410rem;
   position: absolute;
@@ -19994,8 +19994,8 @@ video:focus {
 
 .about_mobile_history_timeline_years_year {
   font-size: 2.4rem;
-  color: #00aed9;
-  border: 1px solid #00aed9;
+  color: #de55d4;
+  border: 1px solid #de55d4;
   border-radius: 23px;
   text-align: center;
   width: 10rem;
