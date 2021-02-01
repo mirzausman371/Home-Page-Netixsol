@@ -12270,6 +12270,7 @@ video:focus {
 
   .elements_text {
     margin: 5rem 0;
+    width: 320px;
   }
 
   .elements_button {
@@ -12663,6 +12664,7 @@ video:focus {
 
   .satellite_text {
     margin: 5rem 0;
+    width: 44rem;
   }
 
   .satellite_button {
@@ -12860,6 +12862,7 @@ video:focus {
 
   .lightning_text {
     margin: 5rem 0;
+    width: 43rem;
   }
 
   .lightning_button {
@@ -13022,6 +13025,7 @@ video:focus {
 
   .ice_text {
     margin: 5rem 0;
+    width: 45rem;
   }
 
   .ice_button {
@@ -13192,6 +13196,7 @@ video:focus {
 
   .landing_green_text {
     margin: 5rem 0;
+    width: 44rem;
   }
 
   .landing_green_button {
