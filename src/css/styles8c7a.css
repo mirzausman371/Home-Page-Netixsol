@@ -877,8 +877,8 @@ h3 {
   }
 }
 
-.home_heading_text{
-  font-size: 18px
+.home_heading_text {
+  font-size: 18px;
 }
 
 .header-new_intro_right {
@@ -2655,7 +2655,6 @@ h3 {
   padding-left: 2rem;
   border-radius: 0;
   outline: none;
-  
 }
 
 @media (max-width: 1500px) {
@@ -4525,74 +4524,108 @@ h3 {
 }
 
 #dapp_button1 {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(14, 34, 17), rgb(30, 75, 49), rgb(40, 97, 54), rgb(40, 97, 54), rgb(30, 75, 49), rgb(14, 34, 17));
+    70deg,
+    rgb(14, 34, 17),
+    rgb(30, 75, 49),
+    rgb(40, 97, 54),
+    rgb(40, 97, 54),
+    rgb(30, 75, 49),
+    rgb(14, 34, 17)
+  );
 }
 
 #dapp_button2 {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(10, 136, 31), rgb(20, 167, 44), rgb(28, 214, 75), rgb(28, 214, 75), rgb(20, 167, 44), rgb(10, 136, 31));
+    70deg,
+    rgb(10, 136, 31),
+    rgb(20, 167, 44),
+    rgb(28, 214, 75),
+    rgb(28, 214, 75),
+    rgb(20, 167, 44),
+    rgb(10, 136, 31)
+  );
 }
 
 #dapp_button3 {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(10, 39, 136), rgb(4, 49, 196), rgb(40, 70, 243), rgb(40, 70, 243), rgb(4, 49, 196), rgb(10, 39, 136));
+    70deg,
+    rgb(10, 39, 136),
+    rgb(4, 49, 196),
+    rgb(40, 70, 243),
+    rgb(40, 70, 243),
+    rgb(4, 49, 196),
+    rgb(10, 39, 136)
+  );
 }
 
 #dapp_button4 {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(8, 56, 145), rgb(38, 90, 173), rgb(118, 119, 31), rgb(118, 119, 31), rgb(38, 90, 173),  rgb(8, 56, 145));
+    70deg,
+    rgb(8, 56, 145),
+    rgb(38, 90, 173),
+    rgb(118, 119, 31),
+    rgb(118, 119, 31),
+    rgb(38, 90, 173),
+    rgb(8, 56, 145)
+  );
 }
 
 #dapp_button5 {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(79, 8, 145), rgb(72, 41, 172), rgb(75, 25, 212), rgb(75, 25, 212), rgb(72, 41, 172),   rgb(79, 8, 145));
+    70deg,
+    rgb(79, 8, 145),
+    rgb(72, 41, 172),
+    rgb(75, 25, 212),
+    rgb(75, 25, 212),
+    rgb(72, 41, 172),
+    rgb(79, 8, 145)
+  );
 }
 
 #tokenization_button {
-
   background-image: linear-gradient(
-    70deg
-    , rgb(106, 8, 145), rgb(91, 41, 172), rgb(106, 25, 212),  rgb(106, 25, 212), rgb(91, 41, 172),  rgb(106, 8, 145));
-    margin-bottom: 6rem;
+    70deg,
+    rgb(106, 8, 145),
+    rgb(91, 41, 172),
+    rgb(106, 25, 212),
+    rgb(106, 25, 212),
+    rgb(91, 41, 172),
+    rgb(106, 8, 145)
+  );
+  margin-bottom: 6rem;
 }
 
-#staking_button2{
-
+#staking_button2 {
   background-image: linear-gradient(
-    70deg
-    , rgb(8, 145, 134), rgb(41, 168, 172), rgb(31, 223, 197),  rgb(31, 223, 197), rgb(41, 168, 172),  rgb(8, 145, 134));
-    margin-bottom: 6rem;
+    70deg,
+    rgb(8, 145, 134),
+    rgb(41, 168, 172),
+    rgb(31, 223, 197),
+    rgb(31, 223, 197),
+    rgb(41, 168, 172),
+    rgb(8, 145, 134)
+  );
+  margin-bottom: 6rem;
 }
 
-#vision1_pic{
+#vision1_pic {
   width: 35rem;
 }
-#vision5_pic{
+#vision5_pic {
   width: 37rem;
 }
-#careers_button{
+#careers_button {
   margin-left: 66rem;
   margin-top: 10rem;
 }
 
-@media only screen and (max-width: 500px){
-  #careers_button{
+@media only screen and (max-width: 500px) {
+  #careers_button {
     margin-left: 5rem;
     margin-top: 10rem;
-  } 
+  }
 }
-
 
 .in-the-news_arrow-forward {
   color: #a9b1b6;
@@ -8235,15 +8268,13 @@ button.gsc-search-button svg {
   background-image: linear-gradient(
     -210deg,
     #141023 0%,
-     #2c1196 52%,
-      #6647e4 100%
+    #2c1196 52%,
+    #6647e4 100%
   );
 }
 
-#staking_button{
-  background-image: linear-gradient(
-70deg
-, #2a03a8, #5828dd, #5828dd, #2a03a8);
+#staking_button {
+  background-image: linear-gradient(70deg, #2a03a8, #5828dd, #5828dd, #2a03a8);
 }
 
 .product-form-mining {
@@ -12020,12 +12051,11 @@ video:focus {
 
 .bitcoin_intro_container_block_text {
   margin-top: 3rem;
-    font-size: 2rem;
-    color: #a9b1b6;
-    line-height: 1.8;
-    width: 62rem;
+  font-size: 2rem;
+  color: #a9b1b6;
+  line-height: 1.8;
+  width: 62rem;
 }
-
 
 @media (max-width: 1500px) {
   .bitcoin_intro_container_block_text {
@@ -12550,11 +12580,9 @@ video:focus {
   margin-bottom: 4rem;
 }
 
-#home_button1{
-  margin-top:2rem;
+#home_button1 {
+  margin-top: 2rem;
 }
-
-
 
 @media (max-width: 1500px) {
   .satellite_text {
@@ -19972,6 +20000,10 @@ video:focus {
   left: 5.5rem;
 }
 
+#teamPic {
+  width: 26rem;
+}
+
 .about_mobile_history_timeline img {
   width: 45rem;
 }
@@ -23869,7 +23901,7 @@ video:focus {
 }
 
 .amp_form-section .product-form_block_text {
-  max-width: 50rem; 
+  max-width: 50rem;
 }
 
 .amp_form-section .product-form_container {
