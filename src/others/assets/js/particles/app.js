@@ -33,11 +33,11 @@ particlesJS("particles-js", {
       polygon: {
         nb_sides: 5,
       },
-      image: {
-        src: "./src/imgs/img/btc_mono.png",
-        width: 100,
-        height: 100,
-      },
+      // image: {
+      //   src: "./src/imgs/img/btc_mono.png",
+      //   width: 100,
+      //   height: 100,
+      // },
     },
     opacity: {
       value: 0.5,

@@ -67,7 +67,7 @@ body {
 
 #LogoNetixSol {
   width: 180px;
-  height: 210px;
+  height: 220px;
   padding-top: 20px;
 }
 
@@ -228,7 +228,7 @@ h3 {
 }
 
 .header_about {
-  background-image: url("/src/imgs/icons/bgblock.jpg");
+  background-image: url("/src/imgs/icons/bgeth.jpg");
   background-size: cover;
 }
 
